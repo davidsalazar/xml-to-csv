@@ -1,0 +1,2056 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog xmlns="https://google.com/" catalog-id="sas-catalog-master">
+    <header>
+        <image-settings>
+            <internal-location base-path="/product"/>
+            <view-types>
+                <view-type>swatch</view-type>
+                <view-type>large</view-type>
+            </view-types>
+            <variation-attribute-id>color</variation-attribute-id>
+            <alt-pattern>${productname}, ${variationvalue}, ${viewtype}</alt-pattern>
+            <title-pattern>${productname}, ${variationvalue}</title-pattern>
+        </image-settings>
+    </header>
+
+    <category category-id="root">
+        <display-name xml:lang="x-default">SAS Master Catalog</display-name>
+        <online-flag>true</online-flag>
+        <template/>
+        <page-attributes/>
+    </category>
+
+    <category category-id="new">
+        <display-name xml:lang="x-default">new</display-name>
+        <online-flag>true</online-flag>
+        <parent>root</parent>
+        <template/>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="enableCompare">false</custom-attribute>
+            <custom-attribute attribute-id="showInMenu">true</custom-attribute>
+            <custom-attribute attribute-id="showNavViewAll">false</custom-attribute>
+        </custom-attributes>
+    </category>
+
+
+    <product product-id="000101520085">
+        <ean/>
+        <upc>728815005903</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">085</custom-attribute>
+            <custom-attribute attribute-id="width">20-S</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101520090">
+        <ean/>
+        <upc>728815005910</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">090</custom-attribute>
+            <custom-attribute attribute-id="width">20-S</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101520095">
+        <ean/>
+        <upc>728815005927</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">095</custom-attribute>
+            <custom-attribute attribute-id="width">20-S</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101520100">
+        <ean/>
+        <upc>728815005934</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">100</custom-attribute>
+            <custom-attribute attribute-id="width">20-S</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101520105">
+        <ean/>
+        <upc>728815005941</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">105</custom-attribute>
+            <custom-attribute attribute-id="width">20-S</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101520110">
+        <ean/>
+        <upc>728815005958</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">110</custom-attribute>
+            <custom-attribute attribute-id="width">20-S</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101520115">
+        <ean/>
+        <upc>728815005965</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">115</custom-attribute>
+            <custom-attribute attribute-id="width">20-S</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101520120">
+        <ean/>
+        <upc>728815005972</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">120</custom-attribute>
+            <custom-attribute attribute-id="width">20-S</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530060">
+        <ean/>
+        <upc>728815005989</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">060</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530065">
+        <ean/>
+        <upc>728815005996</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">065</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530070">
+        <ean/>
+        <upc>728815006009</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">070</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530075">
+        <ean/>
+        <upc>728815006016</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">075</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530080">
+        <ean/>
+        <upc>728815006023</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">080</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530085">
+        <ean/>
+        <upc>728815006030</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">085</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530090">
+        <ean/>
+        <upc>728815006047</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">090</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530095">
+        <ean/>
+        <upc>728815006054</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">095</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530100">
+        <ean/>
+        <upc>728815006061</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">100</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530105">
+        <ean/>
+        <upc>728815006078</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">105</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530110">
+        <ean/>
+        <upc>728815006085</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">110</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530115">
+        <ean/>
+        <upc>728815006092</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">115</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101530120">
+        <ean/>
+        <upc>728815006108</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">120</custom-attribute>
+            <custom-attribute attribute-id="width">30-N</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540040">
+        <ean/>
+        <upc>728815006115</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">040</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540045">
+        <ean/>
+        <upc>728815006122</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">045</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540050">
+        <ean/>
+        <upc>728815006139</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">050</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540055">
+        <ean/>
+        <upc>728815006146</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">055</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540060">
+        <ean/>
+        <upc>728815006153</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">060</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540065">
+        <ean/>
+        <upc>728815006160</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">065</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540070">
+        <ean/>
+        <upc>728815006177</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">070</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540075">
+        <ean/>
+        <upc>728815006184</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">075</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540080">
+        <ean/>
+        <upc>728815006191</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">080</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540085">
+        <ean/>
+        <upc>728815006207</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <brand>Sample</brand>
+        <manufacturer-name>Sample</manufacturer-name>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="countryOfOrigin">US</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">085</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540090">
+        <ean/>
+        <upc>728815006214</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">090</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540095">
+        <ean/>
+        <upc>728815006221</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">095</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540100">
+        <ean/>
+        <upc>728815006238</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">100</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540105">
+        <ean/>
+        <upc>728815006245</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">105</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540110">
+        <ean/>
+        <upc>728815006252</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">110</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540115">
+        <ean/>
+        <upc>728815006269</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <brand>Sample</brand>
+        <manufacturer-name>Sample</manufacturer-name>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="countryOfOrigin">US</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">115</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101540120">
+        <ean/>
+        <upc>728815006276</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">120</custom-attribute>
+            <custom-attribute attribute-id="width">40-M</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550050">
+        <ean/>
+        <upc>728815006283</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">050</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550055">
+        <ean/>
+        <upc>728815006290</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">055</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550060">
+        <ean/>
+        <upc>728815006306</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">060</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550065">
+        <ean/>
+        <upc>728815006313</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">065</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550070">
+        <ean/>
+        <upc>728815006320</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">070</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550075">
+        <ean/>
+        <upc>728815006337</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">075</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550080">
+        <ean/>
+        <upc>728815006344</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">080</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550085">
+        <ean/>
+        <upc>728815006351</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">085</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550090">
+        <ean/>
+        <upc>728815006368</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">090</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550095">
+        <ean/>
+        <upc>728815006375</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">095</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550100">
+        <ean/>
+        <upc>728815006382</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">100</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550105">
+        <ean/>
+        <upc>728815006399</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">105</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550110">
+        <ean/>
+        <upc>728815006405</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">110</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550115">
+        <ean/>
+        <upc>728815006412</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">115</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101550120">
+        <ean/>
+        <upc>728815006429</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">120</custom-attribute>
+            <custom-attribute attribute-id="width">50-W</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101560050">
+        <ean/>
+        <upc>728815006436</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">050</custom-attribute>
+            <custom-attribute attribute-id="width">60-WW</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101560055">
+        <ean/>
+        <upc>728815006443</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">055</custom-attribute>
+            <custom-attribute attribute-id="width">60-WW</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101560060">
+        <ean/>
+        <upc>728815006450</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">060</custom-attribute>
+            <custom-attribute attribute-id="width">60-WW</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101560065">
+        <ean/>
+        <upc>728815006467</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">065</custom-attribute>
+            <custom-attribute attribute-id="width">60-WW</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101560070">
+        <ean/>
+        <upc>728815006474</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">070</custom-attribute>
+            <custom-attribute attribute-id="width">60-WW</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101560075">
+        <ean/>
+        <upc>728815006481</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">075</custom-attribute>
+            <custom-attribute attribute-id="width">60-WW</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101560080">
+        <ean/>
+        <upc>728815006498</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">080</custom-attribute>
+            <custom-attribute attribute-id="width">60-WW</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+    <product product-id="000101560085">
+        <ean/>
+        <upc>728815006504</upc>
+        <unit>Pair</unit>
+        <min-order-quantity>1</min-order-quantity>
+        <step-quantity>1</step-quantity>
+        <display-name xml:lang="x-default">Bounce</display-name>
+        <store-force-price-flag>false</store-force-price-flag>
+        <store-non-inventory-flag>false</store-non-inventory-flag>
+        <store-non-revenue-flag>false</store-non-revenue-flag>
+        <store-non-discountable-flag>false</store-non-discountable-flag>
+        <online-flag>false</online-flag>
+        <online-flag site-id="sas">true</online-flag>
+        <available-flag>true</available-flag>
+        <searchable-flag>true</searchable-flag>
+        <tax-class-id>F1-W-HL</tax-class-id>
+        <page-attributes/>
+        <custom-attributes>
+            <custom-attribute attribute-id="color">015</custom-attribute>
+            <custom-attribute attribute-id="refinementColor">Tan / Beige</custom-attribute>
+            <custom-attribute attribute-id="size">085</custom-attribute>
+            <custom-attribute attribute-id="width">60-WW</custom-attribute>
+        </custom-attributes>
+        <pinterest-enabled-flag>false</pinterest-enabled-flag>
+        <facebook-enabled-flag>false</facebook-enabled-flag>
+        <store-attributes>
+            <force-price-flag>false</force-price-flag>
+            <non-inventory-flag>false</non-inventory-flag>
+            <non-revenue-flag>false</non-revenue-flag>
+            <non-discountable-flag>false</non-discountable-flag>
+        </store-attributes>
+    </product>
+
+
+</catalog>

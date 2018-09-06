@@ -1,0 +1,33 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XML to CSV</title>
+    <link rel="stylesheet" href="./layout.css">
+</head>
+<body>
+    <div class="frame col">
+        <div class="header">Convert XML to CSV</div>
+        <div>
+            <div class="field">
+                <div class="label">XML File</div>
+                <div class="row">
+                    <input type="text" id='open-path'>
+                    <div class="btn blue" id='open-xml-file'>BROWSE</div>
+                </div>
+            </div>
+            <div class="field">
+                <div class="label">Row Selector</div>
+                <input type="text" id='row-xpath'>
+            </div>
+        </div>
+        <textarea id="col-xpath" class="grow" placeholder="Column selectors (1 per line) ..."></textarea>
+        <div class="row-reverse footer">
+            <div class="btn blue" id='save-csv-file' >CONVERT &amp; SAVE</div>
+        </div>
+    </div>
+    <script>
+        require('./index.js')
+    </script>
+</body>
+</html>
